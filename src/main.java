@@ -14,7 +14,7 @@ public class main {
         updateBMW x5 = new updateBMW();
 
         x5.color="black";
-        x5.doors=5;
+        x5.doors="5";
         x5.miles="5000";
 
     }
